@@ -37,6 +37,7 @@
     ./programs/gui
   ];
 
+  local.hyprland.enable = true;
   local.eza.enable = true;
   local.bat.enable = true;
   local.git.enable = true;
@@ -47,5 +48,6 @@
   local.starship.enable = true;
   local.zen-browser.enable = true;
   local.hyprshot.enable = true;
+  local.hyprpaper.enable = true;
 }
 
